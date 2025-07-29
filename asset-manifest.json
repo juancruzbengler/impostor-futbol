@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/impostor-futbol/static/css/main.0c1a2c57.css",
+    "main.css": "/impostor-futbol/static/css/main.1eb97e8a.css",
     "main.js": "/impostor-futbol/static/js/main.b6de1346.js",
     "index.html": "/impostor-futbol/index.html",
-    "main.0c1a2c57.css.map": "/impostor-futbol/static/css/main.0c1a2c57.css.map",
+    "main.1eb97e8a.css.map": "/impostor-futbol/static/css/main.1eb97e8a.css.map",
     "main.b6de1346.js.map": "/impostor-futbol/static/js/main.b6de1346.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c1a2c57.css",
+    "static/css/main.1eb97e8a.css",
     "static/js/main.b6de1346.js"
   ]
 }
